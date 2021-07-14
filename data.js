@@ -155,7 +155,7 @@ var APP_DATA = {
   "name": "Veev FAB",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": false
   }
